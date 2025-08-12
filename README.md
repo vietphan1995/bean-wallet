@@ -1,6 +1,8 @@
-# bean wallet
+# bean-wallet
 
-# Introduction
+## Bean Wallet
+
+### Introduction
 
 [https://github.com/vietphan1995/bean-wallet.git](https://github.com/vietphan1995/bean-wallet.git)
 
@@ -14,7 +16,7 @@ Bean Wallet help you mange roles to use smart keys in business organization, fam
 
 ![image.png](image.png)
 
-[back to projects …](https://github.com/vietphan1995/projects)
+### [back to git projects …](https://github.com/vietphan1995/projects)
 
-### Notes:
+### Notes
 https://phantrungviet.notion.site/bean-wallet-1bd5e832d6ee800f86d5d52c36a45150
