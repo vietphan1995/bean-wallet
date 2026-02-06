@@ -23,4 +23,4 @@ Bean Wallet help you mange roles to use smart keys in business organization, fam
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/bean-wallet-1bd5e832d6ee800f86d5d52c36a45150
+https://maianhcorporation.notion.site/bean-wallet-1bd5e832d6ee800f86d5d52c36a45150
